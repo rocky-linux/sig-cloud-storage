@@ -1,13 +1,13 @@
 ---
 # Project information
-site_name: REPLACEME Wiki
-site_url: https://REPLACEME.rocky.page
+site_name: SIG/Storage Wiki
+site_url: https://sig-storage.rocky.page
 site_description: >-
-  REPLACEME
+  The SIG/Storage Wiki
 
 # Repository
-repo_url: https://git.resf.org/REPLACEME/wiki
-repo_name: sig_ai/wiki
+repo_url: https://git.resf.org/sig_storage/wiki
+repo_name: sig_storage/wiki
 edit_uri: _edit/main/docs/
 
 # Copyright
